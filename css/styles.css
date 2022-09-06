@@ -1,0 +1,111 @@
+p {
+    color: rgb(11, 6, 91);
+    text-decoration: none;
+}
+
+header {
+    background-color: rgb(219, 232, 218);
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+
+}
+
+body {
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-top: 0px;
+    border: 1px solid red;
+    background-color: rgb(219, 232, 218);
+}
+
+div {
+    border: 1px solid rgb(255, 0, 119);
+    border-top: 0px;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-width: 10px;
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 60px;
+}
+
+section {
+    border-top: solid 1px rgb(26, 57, 212);
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 10px;
+}
+
+article {
+    border-top: 1px rgb(216, 115, 27);
+    margin-left: 100px;
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+.article_datos_personales {
+    border-top: 1px rgb(216, 115, 27);
+    margin-left: 250px;
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+.interlineado {
+    line-height: 10%;
+}
+
+.interlineado_parrafo_largo {
+    line-height: 100%;
+}
+
+.interlineado_fechas {
+    line-height: 200%;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.img_foto {
+    max-width: 100%;
+    max-height: 100%;
+    border-color: rgba(68, 30, 237, 0.854);
+    border-radius: 100%;
+    margin-left: 90px;
+}
+
+.redes_sociales {
+    float: right;
+    margin-left: 10px;
+}
+
+.puntero {
+    float: right;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.Mi_foto {
+    padding: 0px;
+    margin-left: 6000px margin-right: 50px;
+    border: 1px solid rgb(57, 29, 219);
+    border-radius: 100%;
+    float: left;
+    width: 169px;
+    height: 160px;
+}
+
+h2 {
+    color: rgb(27, 27, 140);
+}
+
